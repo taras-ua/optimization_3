@@ -1,0 +1,405 @@
+x0 = 0.2
+y0 = 0.1
+z0 = 0.03
+
+ITERATION 1
+step_length = 0.5
+pr[x,y,z] = [ 0.21333333  0.10333333  0.04333333]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107333333333
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0191485421551
+
+ITERATION 2
+step_length = 0.25
+pr[x,y,z] = [ 0.21555556  0.10555556  0.03222222]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107185185185
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0115470053838
+
+ITERATION 3
+step_length = 0.5
+pr[x,y,z] = [ 0.21259259  0.10703704  0.04259259]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107290534979
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.010886621079
+
+ITERATION 4
+step_length = 0.25
+pr[x,y,z] = [ 0.21506173  0.10728395  0.03246914]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10717567444
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0104231461329
+
+ITERATION 5
+step_length = 0.5
+pr[x,y,z] = [ 0.2127572   0.10695473  0.04201646]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107266717472
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00982703641587
+
+ITERATION 6
+step_length = 0.25
+pr[x,y,z] = [ 0.21500686  0.10722908  0.03274348]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10717038166
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00954590595384
+
+ITERATION 7
+step_length = 0.5
+pr[x,y,z] = [ 0.21288523  0.10697302  0.04148605]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10724674862
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00899996644338
+
+ITERATION 8
+step_length = 0.25
+pr[x,y,z] = [ 0.21494589  0.10722298  0.03299345]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107165944138
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00874260799352
+
+ITERATION 9
+step_length = 0.5
+pr[x,y,z] = [ 0.2130031   0.10698725  0.04100036]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107229999166
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0082426098633
+
+ITERATION 10
+step_length = 0.25
+pr[x,y,z] = [ 0.21489035  0.10721621  0.03322241]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107162222037
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00800690848425
+
+ITERATION 11
+step_length = 0.5
+pr[x,y,z] = [ 0.21311103  0.10700034  0.04055553]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10721595007
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00754898571407
+
+ITERATION 12
+step_length = 0.25
+pr[x,y,z] = [ 0.21483946  0.10721004  0.0334321 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107159100016
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00733311885003
+
+ITERATION 13
+step_length = 0.5
+pr[x,y,z] = [ 0.21320988  0.10701234  0.04014813]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10720416598
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0069137307548
+
+ITERATION 14
+step_length = 0.25
+pr[x,y,z] = [ 0.21479287  0.10720438  0.03362415]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107156481329
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00671602931075
+
+ITERATION 15
+step_length = 0.5
+pr[x,y,z] = [ 0.21330042  0.10702332  0.03977502]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107194281728
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00633193315771
+
+ITERATION 16
+step_length = 0.25
+pr[x,y,z] = [ 0.21475019  0.10719921  0.03380004]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107154284828
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00615086849474
+
+ITERATION 17
+step_length = 0.5
+pr[x,y,z] = [ 0.21338333  0.10703338  0.0394333 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107185991021
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00579909443042
+
+ITERATION 18
+step_length = 0.25
+pr[x,y,z] = [ 0.2147111   0.10719447  0.03396112]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107152442449
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00563326654621
+
+ITERATION 19
+step_length = 0.5
+pr[x,y,z] = [ 0.21345927  0.10704259  0.03912034]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107179036949
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0053110946334
+
+ITERATION 20
+step_length = 0.25
+pr[x,y,z] = [ 0.21467531  0.10719012  0.03410865]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.1071508971
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00515922133724
+
+ITERATION 21
+step_length = 0.5
+pr[x,y,z] = [ 0.21352881  0.10705103  0.03883372]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107173204016
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00486416052427
+
+ITERATION 22
+step_length = 0.25
+pr[x,y,z] = [ 0.21464252  0.10718615  0.03424377]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107149600892
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00472506752313
+
+ITERATION 23
+step_length = 0.5
+pr[x,y,z] = [ 0.21359251  0.10705876  0.03857122]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107168311473
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0044548363829
+
+ITERATION 24
+step_length = 0.25
+pr[x,y,z] = [ 0.2146125   0.1071825   0.03436752]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107148513661
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00432744820173
+
+ITERATION 25
+step_length = 0.5
+pr[x,y,z] = [ 0.21365084  0.10706583  0.0383308 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107164207708
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00407995729157
+
+ITERATION 26
+step_length = 0.25
+pr[x,y,z] = [ 0.214585    0.10717917  0.03448085]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107147601713
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00396328895766
+
+ITERATION 27
+step_length = 0.5
+pr[x,y,z] = [ 0.21370427  0.10707232  0.03811062]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107160765556
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00373662466369
+
+ITERATION 28
+step_length = 0.25
+pr[x,y,z] = [ 0.21455981  0.10717611  0.03458464]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10714683679
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00362977409081
+
+ITERATION 29
+step_length = 0.5
+pr[x,y,z] = [ 0.2137532   0.10707825  0.03790897]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107157878349
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00342218383171
+
+ITERATION 30
+step_length = 0.25
+pr[x,y,z] = [ 0.21453675  0.10717331  0.0346797 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107146195189
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00332432484511
+
+ITERATION 31
+step_length = 0.5
+pr[x,y,z] = [ 0.21379801  0.10708369  0.03772428]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10715545662
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00313420352112
+
+ITERATION 32
+step_length = 0.25
+pr[x,y,z] = [ 0.21451562  0.10717075  0.03476676]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107145657027
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.0030445794695
+
+ITERATION 33
+step_length = 0.5
+pr[x,y,z] = [ 0.21383905  0.10708867  0.03755514]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107153425324
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00287045705166
+
+ITERATION 34
+step_length = 0.25
+pr[x,y,z] = [ 0.21449627  0.1071684   0.0348465 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107145205628
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00278837495672
+
+ITERATION 35
+step_length = 0.5
+pr[x,y,z] = [ 0.21387664  0.10709323  0.03740023]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107151721515
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00262890512052
+
+ITERATION 36
+step_length = 0.25
+pr[x,y,z] = [ 0.21447856  0.10716625  0.03491952]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144827003
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00255373031881
+
+ITERATION 37
+step_length = 0.5
+pr[x,y,z] = [ 0.21391106  0.1070974   0.03725836]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107150292395
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00240768003433
+
+ITERATION 38
+step_length = 0.25
+pr[x,y,z] = [ 0.21446233  0.10716428  0.0349864 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144509421
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00233883126997
+
+ITERATION 39
+step_length = 0.5
+pr[x,y,z] = [ 0.21394259  0.10710123  0.03712842]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107149093679
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00220507126806
+
+ITERATION 40
+step_length = 0.25
+pr[x,y,z] = [ 0.21444747  0.10716248  0.03504766]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10714424304
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00214201619846
+
+ITERATION 41
+step_length = 0.5
+pr[x,y,z] = [ 0.21397146  0.10710473  0.03700942]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.10714808822
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00201951223912
+
+ITERATION 42
+step_length = 0.25
+pr[x,y,z] = [ 0.21443385  0.10716083  0.03510375]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144019604
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00196176331888
+
+ITERATION 43
+step_length = 0.5
+pr[x,y,z] = [ 0.21399791  0.10710794  0.03690043]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107147244862
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00184956819448
+
+ITERATION 44
+step_length = 0.25
+pr[x,y,z] = [ 0.21442139  0.10715932  0.03515513]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143832192
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00179667890563
+
+ITERATION 45
+step_length = 0.5
+pr[x,y,z] = [ 0.21402213  0.10711088  0.03680062]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107146537471
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00169392511705
+
+ITERATION 46
+step_length = 0.25
+pr[x,y,z] = [ 0.21440997  0.10715793  0.03520218]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143674994
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00164548651659
+
+ITERATION 47
+step_length = 0.5
+pr[x,y,z] = [ 0.21404431  0.10711357  0.0367092 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107145944126
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00155137956564
+
+ITERATION 48
+step_length = 0.25
+pr[x,y,z] = [ 0.21439951  0.10715666  0.03524528]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143543139
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00150701712353
+
+ITERATION 49
+step_length = 0.5
+pr[x,y,z] = [ 0.21406462  0.10711603  0.03662548]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107145446441
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00142082936988
+
+ITERATION 50
+step_length = 0.25
+pr[x,y,z] = [ 0.21438994  0.1071555   0.03528475]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143432542
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00138020007317
+
+ITERATION 51
+step_length = 0.5
+pr[x,y,z] = [ 0.21408323  0.10711829  0.0365488 ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107145028992
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00130126510818
+
+ITERATION 52
+step_length = 0.25
+pr[x,y,z] = [ 0.21438117  0.10715444  0.03532089]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143339776
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00126405480883
+
+ITERATION 53
+step_length = 0.5
+pr[x,y,z] = [ 0.21410027  0.10712036  0.03647858]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144678845
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00119176230282
+
+ITERATION 54
+step_length = 0.25
+pr[x,y,z] = [ 0.21437314  0.10715346  0.035354  ]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107143261966
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00115768328867
+
+ITERATION 55
+step_length = 0.5
+pr[x,y,z] = [ 0.21411587  0.10712225  0.03641426]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144385149
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.00109147427185
+
+ITERATION 56
+step_length = 0.25
+pr[x,y,z] = [ 0.21436578  0.10715257  0.03538431]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.1071431967
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.001060263042
+
+ITERATION 57
+step_length = 0.5
+pr[x,y,z] = [ 0.21413016  0.10712399  0.03635536]
+surface(pr[x,y,z]) = 1.0
+f(pr[x,y,z]) =  0.107144138803
+norm(pr[x,y,z] - pr[x,y,z]_prev) = 0.000999625582447
+
+MIN = [ 0.21413016  0.10712399  0.03635536]
+F min = 0.107144138803
